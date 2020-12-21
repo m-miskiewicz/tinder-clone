@@ -8,7 +8,7 @@ import ChatScreen from './ChatScreen';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Router>
         <Switch>
           <Route path="/chat/:person">
